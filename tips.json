@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "title": "Preparing a rabbit home",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Choose a large, secure living area with room to run, stretch and stand upright.",
+      "Provide hay, water, a hiding place, a litter tray and non-slip flooring."
+    ],
+    "caution": "Small hutches alone do not provide enough space for a rabbit's daily needs."
+  },
+  {
+    "id": 2,
+    "title": "Why rabbits need companions",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Plan for a compatible rabbit companion, usually a neutered pair.",
+      "Introduce rabbits gradually in neutral space and monitor body language."
+    ],
+    "caution": "Never put unfamiliar rabbits together without a careful bonding plan."
+  },
+  {
+    "id": 3,
+    "title": "Rabbit-proofing cables and furniture",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Cover electrical cables and block access to hazardous gaps.",
+      "Provide safe chew items and supervise access to new rooms."
+    ],
+    "caution": "Chewed electrical cables can cause serious injury."
+  },
+  {
+    "id": 4,
+    "title": "Settling a new rabbit",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Keep a consistent routine and allow quiet hiding places.",
+      "Sit nearby and let the rabbit approach on its own terms."
+    ],
+    "caution": "Avoid chasing or repeatedly picking up a frightened rabbit."
+  },
+  {
+    "id": 5,
+    "title": "Choosing a rabbit-savvy vet",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Find a veterinary practice experienced with rabbits before an emergency.",
+      "Ask about vaccinations, neutering and out-of-hours care."
+    ],
+    "caution": "Rabbits can deteriorate quickly when unwell."
+  },
+  {
+    "id": 6,
+    "title": "Unlimited grass hay",
+    "category": "Diet & Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Offer clean, fresh grass hay at all times and top it up daily.",
+      "Place hay near litter areas to encourage natural grazing."
+    ],
+    "caution": "Hay is essential for gut movement and dental wear; sudden loss of appetite is urgent."
+  },
+  {
+    "id": 7,
+    "title": "Fresh leafy greens",
+    "category": "Diet & Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Offer a variety of suitable leafy greens in appropriate amounts.",
+      "Introduce new greens slowly and watch droppings and appetite."
+    ],
+    "caution": "Avoid abrupt diet changes; ask a vet about diets for young or ill rabbits."
+  },
+  {
+    "id": 8,
+    "title": "Measuring rabbit pellets",
+    "category": "Diet & Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Use a measured portion of plain, high-fibre rabbit pellets appropriate to age and size.",
+      "Follow veterinary advice and the manufacturer's feeding guidance."
+    ],
+    "caution": "Muesli-style mixes can encourage selective feeding."
+  },
+  {
+    "id": 9,
+    "title": "Fresh drinking water",
+    "category": "Diet & Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Supply clean water in a sturdy bowl and check it several times daily.",
+      "Clean the bowl and confirm it has not been tipped over."
+    ],
+    "caution": "A rabbit that is not drinking or eating normally needs prompt veterinary advice."
+  },
+  {
+    "id": 10,
+    "title": "Treats and fruit",
+    "category": "Diet & Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Use tiny portions of suitable fruit as occasional treats.",
+      "Prefer hay-based enrichment and herbs rather than sugary snacks."
+    ],
+    "caution": "Avoid chocolate, sweets and processed human snacks."
+  },
+  {
+    "id": 11,
+    "title": "Plants and foods to avoid",
+    "category": "Diet & Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Identify all plants accessible in the home and garden.",
+      "Remove potentially poisonous plants and unknown cuttings."
+    ],
+    "caution": "Contact a vet urgently if you suspect poisoning; do not attempt home remedies."
+  },
+  {
+    "id": 12,
+    "title": "Changing food gradually",
+    "category": "Diet & Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Mix small amounts of a new appropriate food into the usual diet over several days.",
+      "Monitor appetite, droppings and comfort throughout."
+    ],
+    "caution": "Stop and contact a vet if appetite or droppings reduce."
+  },
+  {
+    "id": 13,
+    "title": "Indoor rabbit exercise area",
+    "category": "Housing & Environment",
+    "frequency": "As needed",
+    "steps": [
+      "Provide a roomy exercise area with hiding places and tunnels.",
+      "Add traction on smooth floors using washable non-slip mats."
+    ],
+    "caution": "Avoid slippery floors and unstable climbing equipment."
+  },
+  {
+    "id": 14,
+    "title": "Outdoor enclosure security",
+    "category": "Housing & Environment",
+    "frequency": "As needed",
+    "steps": [
+      "Use a predator-resistant run with secure mesh and locks.",
+      "Provide weatherproof shelter, shade and protection from digging predators."
+    ],
+    "caution": "Check security daily; thin chicken wire alone may not stop predators."
+  },
+  {
+    "id": 15,
+    "title": "Temperature and heat safety",
+    "category": "Housing & Environment",
+    "frequency": "As needed",
+    "steps": [
+      "Provide shade, airflow and several cool resting spots in warm weather.",
+      "Offer cool ceramic tiles or wrapped cool packs with space to move away."
+    ],
+    "caution": "Heatstroke is an emergency; contact a vet immediately if suspected."
+  },
+  {
+    "id": 16,
+    "title": "Cold and wet weather",
+    "category": "Housing & Environment",
+    "frequency": "As needed",
+    "steps": [
+      "Keep bedding dry and provide sheltered, draught-free sleeping spaces.",
+      "Check outdoor accommodation after rain, wind and freezing weather."
+    ],
+    "caution": "Avoid sudden temperature changes when moving rabbits indoors and outdoors."
+  },
+  {
+    "id": 17,
+    "title": "Safe bedding choices",
+    "category": "Housing & Environment",
+    "frequency": "As needed",
+    "steps": [
+      "Choose clean, low-dust bedding and soft resting surfaces.",
+      "Replace damp bedding promptly and monitor for sore feet."
+    ],
+    "caution": "Avoid strongly scented or dusty materials that irritate airways."
+  },
+  {
+    "id": 18,
+    "title": "Cleaning the rabbit enclosure",
+    "category": "Housing & Environment",
+    "frequency": "As needed",
+    "steps": [
+      "Remove wet litter and soiled bedding daily.",
+      "Clean bowls and surfaces with rabbit-safe products and rinse thoroughly."
+    ],
+    "caution": "Keep rabbits away from cleaning chemicals until areas are dry."
+  },
+  {
+    "id": 19,
+    "title": "Setting up a litter tray",
+    "category": "Housing & Environment",
+    "frequency": "As needed",
+    "steps": [
+      "Use a large tray with safe paper-based litter and hay nearby.",
+      "Move stray droppings into the tray and reward calm use."
+    ],
+    "caution": "Avoid clumping cat litter and punishment."
+  },
+  {
+    "id": 20,
+    "title": "Preventing sore hocks",
+    "category": "Housing & Environment",
+    "frequency": "As needed",
+    "steps": [
+      "Provide clean, dry, soft surfaces and avoid wire flooring.",
+      "Check heels regularly for hair loss, redness or sores."
+    ],
+    "caution": "Seek veterinary advice promptly for painful or open lesions."
+  },
+  {
+    "id": 21,
+    "title": "Recognising relaxed body language",
+    "category": "Behaviour & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for loose posture, normal grooming and comfortable resting.",
+      "Notice how your own rabbit signals contentment and curiosity."
+    ],
+    "caution": "A hunched, withdrawn rabbit may be ill rather than simply quiet."
+  },
+  {
+    "id": 22,
+    "title": "Recognising fear and stress",
+    "category": "Behaviour & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Look for freezing, hiding, thumping or repeated escape attempts.",
+      "Reduce noise and allow access to a secure hiding place."
+    ],
+    "caution": "Persistent stress or sudden behaviour change warrants a welfare review."
+  },
+  {
+    "id": 23,
+    "title": "Safe digging activities",
+    "category": "Behaviour & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Offer a deep box of shredded paper or other rabbit-safe digging material.",
+      "Hide a little hay inside to encourage exploration."
+    ],
+    "caution": "Check materials for staples, strings and swallowing hazards."
+  },
+  {
+    "id": 24,
+    "title": "Chewing and foraging toys",
+    "category": "Behaviour & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Offer untreated rabbit-safe willow, cardboard tubes and hay-filled toys.",
+      "Rotate items and scatter-feed part of the usual ration."
+    ],
+    "caution": "Remove toys if pieces become sharp or unsafe to swallow."
+  },
+  {
+    "id": 25,
+    "title": "Gentle trust building",
+    "category": "Behaviour & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Sit at floor level and let the rabbit come to you.",
+      "Offer a little suitable food from your hand without grabbing."
+    ],
+    "caution": "Respect rabbits that dislike being touched or lifted."
+  },
+  {
+    "id": 26,
+    "title": "Safe handling when necessary",
+    "category": "Behaviour & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Support the chest and hindquarters securely and keep the rabbit close to your body.",
+      "Use floor-level handling where possible and ask a vet to demonstrate."
+    ],
+    "caution": "Never lift by ears or scruff; struggling rabbits can injure their spine."
+  },
+  {
+    "id": 27,
+    "title": "Introducing two rabbits",
+    "category": "Behaviour & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Arrange a health check and neutering plan before bonding.",
+      "Use neutral territory, supervised sessions and positive signs such as relaxed proximity."
+    ],
+    "caution": "Separate safely if fighting occurs and seek experienced bonding advice."
+  },
+  {
+    "id": 28,
+    "title": "Enrichment for rainy days",
+    "category": "Behaviour & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Set up tunnels, hideaways and foraging activities in a sheltered area.",
+      "Change the arrangement occasionally without removing familiar safe spaces."
+    ],
+    "caution": "Ensure enough space for both rabbits to move away from each other."
+  },
+  {
+    "id": 29,
+    "title": "Brushing short-haired rabbits",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Brush gently according to coat needs, especially during moulting.",
+      "Check for mats and skin changes while grooming."
+    ],
+    "caution": "Do not pull out tightly matted fur or cut close to skin."
+  },
+  {
+    "id": 30,
+    "title": "Long-haired rabbit coat care",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Check the coat daily for tangles and trapped debris.",
+      "Use gentle grooming and ask a rabbit-experienced groomer or vet for help."
+    ],
+    "caution": "Severe matting can damage skin and needs professional attention."
+  },
+  {
+    "id": 31,
+    "title": "Checking nails",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Inspect nails regularly for overgrowth and snagging.",
+      "Ask a vet or trained professional to demonstrate safe trimming."
+    ],
+    "caution": "The quick can bleed if cut; do not trim if you cannot see safely."
+  },
+  {
+    "id": 32,
+    "title": "Keeping the rear end clean",
+    "category": "Grooming & Hygiene",
+    "frequency": "Daily",
+    "steps": [
+      "Inspect the rear end daily for stuck droppings and damp fur.",
+      "Address diet, mobility or toileting problems with a vet."
+    ],
+    "caution": "Flystrike can be fatal and requires immediate veterinary care."
+  },
+  {
+    "id": 33,
+    "title": "Why routine bathing is unsuitable",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Use gentle spot cleaning only when necessary and veterinary approved.",
+      "Keep the rabbit warm and dry after any essential cleaning."
+    ],
+    "caution": "Do not immerse a rabbit in water or use human shampoos."
+  },
+  {
+    "id": 34,
+    "title": "Watching appetite and droppings",
+    "category": "Health & Prevention",
+    "frequency": "Daily",
+    "steps": [
+      "Notice normal eating, drinking and droppings every day.",
+      "Record any sudden change and contact a rabbit-savvy vet immediately."
+    ],
+    "caution": "Not eating or passing droppings can signal gut stasis and is an emergency."
+  },
+  {
+    "id": 35,
+    "title": "Recognising possible gut stasis",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for refusal of food, fewer droppings, hunching or teeth grinding.",
+      "Contact an emergency rabbit-savvy vet without delay."
+    ],
+    "caution": "Do not force-feed or give medications without veterinary direction, especially if blockage is possible."
+  },
+  {
+    "id": 36,
+    "title": "Checking rabbit teeth",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Offer unlimited hay and monitor chewing, drooling and weight.",
+      "Arrange veterinary checks if food drops from the mouth or eating becomes selective."
+    ],
+    "caution": "Dental disease cannot be safely assessed or treated at home."
+  },
+  {
+    "id": 37,
+    "title": "Vaccinations for pet rabbits",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Ask a rabbit-savvy vet about current protection against myxomatosis and rabbit haemorrhagic disease.",
+      "Keep vaccination records and follow the vet's booster schedule."
+    ],
+    "caution": "Vaccine recommendations and products vary; consult your vet."
+  },
+  {
+    "id": 38,
+    "title": "Neutering discussions",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Discuss neutering benefits, risks and timing with an experienced vet.",
+      "Plan recovery space and follow post-operative instructions."
+    ],
+    "caution": "Do not fast rabbits before surgery unless your vet gives specific instructions."
+  },
+  {
+    "id": 39,
+    "title": "Parasites and itchy skin",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Check for unusual scratching, flakes, hair loss or ear discomfort.",
+      "Arrange a vet appointment for diagnosis and suitable treatment."
+    ],
+    "caution": "Never use dog or cat flea treatments on rabbits without veterinary approval."
+  },
+  {
+    "id": 40,
+    "title": "Signs of pain",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for hiding, hunched posture, reluctance to move and loud tooth grinding.",
+      "Note when symptoms started and seek veterinary help."
+    ],
+    "caution": "Rabbits often conceal illness; do not wait for dramatic symptoms."
+  },
+  {
+    "id": 41,
+    "title": "Breathing concerns",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for nasal discharge, noisy breathing or increased effort.",
+      "Keep the rabbit calm and contact a vet promptly."
+    ],
+    "caution": "Open-mouth breathing or severe distress requires emergency care."
+  },
+  {
+    "id": 42,
+    "title": "Flystrike prevention",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Check the rear end at least daily and more often in warm weather.",
+      "Keep accommodation clean and ask your vet about suitable prevention."
+    ],
+    "caution": "Any eggs or maggots on a rabbit require immediate emergency veterinary treatment."
+  },
+  {
+    "id": 43,
+    "title": "Monitoring body condition",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Weigh your rabbit regularly using the same safe method.",
+      "Track trends and discuss unexpected changes with your vet."
+    ],
+    "caution": "Weight loss can be an early sign of dental or other disease."
+  },
+  {
+    "id": 44,
+    "title": "Emergency transport planning",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Keep a secure carrier lined with a towel ready.",
+      "Save the emergency vet's number and prepare a concise symptom history."
+    ],
+    "caution": "Do not delay transport while trying unverified home treatments."
+  },
+  {
+    "id": 45,
+    "title": "Baby rabbits and weaning",
+    "category": "Life Stages",
+    "frequency": "As needed",
+    "steps": [
+      "Ask a rabbit-savvy vet or rescue for age-specific diet and housing advice.",
+      "Introduce handling gently and monitor growth and droppings."
+    ],
+    "caution": "Young rabbits have sensitive digestion; avoid sudden food changes."
+  },
+  {
+    "id": 46,
+    "title": "Senior rabbit comfort",
+    "category": "Life Stages",
+    "frequency": "As needed",
+    "steps": [
+      "Provide low-entry litter trays, non-slip flooring and accessible hay and water.",
+      "Arrange regular vet reviews for mobility, teeth and body condition."
+    ],
+    "caution": "Reduced movement or appetite should not be dismissed as old age."
+  },
+  {
+    "id": 47,
+    "title": "Supporting rabbits with mobility problems",
+    "category": "Life Stages",
+    "frequency": "As needed",
+    "steps": [
+      "Put food, water and resting areas close together.",
+      "Use soft flooring and ask a vet about pain management and hygiene."
+    ],
+    "caution": "Never give human painkillers to rabbits."
+  },
+  {
+    "id": 48,
+    "title": "Fireworks and loud noise",
+    "category": "Seasonal & Travel",
+    "frequency": "As needed",
+    "steps": [
+      "Provide a secure, quiet hiding area and keep the normal routine.",
+      "Close curtains where appropriate and check the enclosure is secure."
+    ],
+    "caution": "Avoid forcing frightened rabbits out of hiding."
+  },
+  {
+    "id": 49,
+    "title": "Travelling safely with rabbits",
+    "category": "Seasonal & Travel",
+    "frequency": "As needed",
+    "steps": [
+      "Use a well-ventilated secure carrier with a non-slip base and hay.",
+      "Keep journeys calm and avoid excessive heat or cold."
+    ],
+    "caution": "Seek veterinary advice for long journeys or rabbits with health problems."
+  },
+  {
+    "id": 50,
+    "title": "Holiday care arrangements",
+    "category": "Seasonal & Travel",
+    "frequency": "As needed",
+    "steps": [
+      "Choose a rabbit-experienced sitter who knows feeding and emergency signs.",
+      "Leave written routines, vet contacts and medication instructions."
+    ],
+    "caution": "A rabbit refusing food needs immediate action, not a wait-and-see approach."
+  }
+]

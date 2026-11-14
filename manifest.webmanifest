@@ -1,0 +1,18 @@
+{
+  "name": "Elevor360D Rabbit Care Guide",
+  "short_name": "Rabbit Care Guide",
+  "id": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f0",
+  "theme_color": "#205946",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "Cat care and wellbeing guides with personal notes and checklists"
+}
